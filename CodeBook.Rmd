@@ -1,1 +1,12 @@
-
+## Code Book run_analysis.R. 
+## Manually Dowloaded and extracted the file in you working directory.
+## Get the list of the files.
+## Read the files as tables and get files required for the project
+## Merge train and test data sets
+## Set Names to variables
+## Setting Variable names and file for features.
+## Extracts only the measurements on the mean and standard deviation for each measurement.
+## Subset the data frame Data by seleted names of Features
+## Uses descriptive activity names to name the activities in the data set
+## Appropriately labels the data set with descriptive variable names
+## Creates a second,independent tidy data set and ouput it.
